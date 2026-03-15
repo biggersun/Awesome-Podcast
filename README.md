@@ -4,6 +4,17 @@
 
 **[中文](./awesome-podcast.md)** · [Contribute](#contributing) · [License](#license)
 
+<table>
+<tr>
+<td width="120">Sponsored by</td>
+<td>
+
+**[CastLoom Pro](https://castloompro.toolooz.com)** — Turn podcasts into your knowledge base. Play, download, transcribe & translate locally (Faster-Whisper), sync to Notion/Obsidian. Windows & macOS · 7-day free trial · lifetime license.
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Contents

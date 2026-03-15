@@ -4,6 +4,17 @@
 
 **[English](./README.md)** · [贡献指南](#贡献指南) · [许可证](#许可证)
 
+<table>
+<tr>
+<td width="120">赞助商</td>
+<td>
+
+**[CastLoom Pro](https://castloompro.toolooz.com)** — 从播客到知识库，一步到位。播放、下载、转录、翻译、归档，本地处理（Faster-Whisper），可同步 Notion/Obsidian。支持 Windows 与 macOS，7 天免费试用，一次购买终身授权。
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 目录
