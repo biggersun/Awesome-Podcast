@@ -4,9 +4,9 @@ A curated list of amazingly awesome resources for podcast creators — hardware,
 
 ---
 
-### 📖 选择语言 / Choose language
+### Choose language
 
-| **[English](./awesome-podcast-en.md)** | **[中文版](./awesome-podcast.md)** |
+| **[English](./awesome-podcast-en.md)** | **[中文](./awesome-podcast.md)** |
 |----------------------------------------|-----------------------------------|
 
 ---
