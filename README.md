@@ -187,6 +187,7 @@
 | **Waves CLA-76 / SSL G-Bus** | Plugin | Classic hardware compression emulation |
 | **Krisp** | App | Real-time AI noise cancellation for calls & recording |
 | **NVIDIA RTX Voice** | App | GPU-accelerated real-time background noise removal |
+| **[Video Noise Remover](https://videonoiseremover.com/)** | Web | Removes background noise from speech in video and audio in the browser; files up to 10 minutes are free, with no sign-up or watermark |
 
 ---
 

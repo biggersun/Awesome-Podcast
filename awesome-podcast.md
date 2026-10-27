@@ -171,6 +171,7 @@
 | **NVIDIA RTX Voice** | 独立软件 | GPU 加速实时降噪 |
 | **Waves NS1** | 插件 | 智能单旋钮降噪 |
 | **FabFilter Pro-Q 3** | 插件 | 精准均衡器，频谱分析 |
+| **[Video Noise Remover](https://videonoiseremover.com/)** | Web | 在浏览器里去除视频和音频里人声的背景噪音；10 分钟以内的文件免费，无需注册、无水印 |
 
 ---
 
